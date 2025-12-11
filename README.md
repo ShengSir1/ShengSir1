@@ -11,8 +11,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-dusky-nine-91.vercel.app/api?username=ShengSir1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="ShengSir1's GitHub Stats" />
-  <img src="https://github-readme-stats-dusky-nine-91.vercel.app/api/top-langs/?username=ShengSir1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-dusky-nine-91.vercel.app/api?username=ShengSir1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&v=1" height="150" alt="ShengSir1's GitHub Stats" />
+  <img src="https://github-readme-stats-dusky-nine-91.vercel.app/api/top-langs/?username=ShengSir1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=1" height="150" alt="Top Languages" />
 </div>
 
 <br/>
