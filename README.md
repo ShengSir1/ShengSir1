@@ -5,14 +5,14 @@
 <h1 align="center">Hi there, I'm ShengSir1! 👋</h1>
 <p align="center">
   <b>C# Engineer & Developer</b> <br/>
-  Focusing on .NET Ecosystem, Medical Imaging (DICOM), and Backend Solutions.
+  Focusing on .NET Ecosystem, Medical Imaging (DICOM), and Full-Stack Solutions.
 </p>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-dusky-nine-91.vercel.app/api?username=ShengSir1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&v=1" height="150" alt="ShengSir1's GitHub Stats" />
-  <img src="https://github-readme-stats-dusky-nine-91.vercel.app/api/top-langs/?username=ShengSir1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=1" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-dusky-nine-91.vercel.app/api?username=ShengSir1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&v=2" height="150" alt="ShengSir1's GitHub Stats" />
+  <img src="https://github-readme-stats-dusky-nine-91.vercel.app/api/top-langs/?username=ShengSir1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=2" height="150" alt="Top Languages" />
 </div>
 
 <br/>
@@ -27,13 +27,14 @@
   
   <br/>
   
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/DICOM-Medical-005b96?style=for-the-badge&logo=staff-snake&logoColor=white" />
   
   <br/>
   
+  <img src="https://img.shields.io/badge/DICOM-Medical-005b96?style=for-the-badge&logo=staff-snake&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
@@ -45,6 +46,6 @@
     🌱 I’m currently working on <b>DICOM intelligent processing & .NET 8 Web API</b>
   </p>
   <p>
-    📫 How to reach me: <a href="mailto:your-email@example.com">Email Me</a>
+    📫 How to reach me: <a href="mailto:shengsir123@gmail.com">Email Me</a>
   </p>
 </div>
